@@ -1,2 +1,28 @@
 apt-get update
-apt-get install
+apt install firefox
+apt install curl
+apt install gcc make perl
+apt install bluefish
+apt install keepass2
+apt install virtualbox
+apt install freecad
+apt install thunar
+apt install veracrypt
+apt install libreoffice
+apt install thunderbird
+apt install gparted
+apt install vlc
+apt install eclipse
+apt install obs
+apt install shotcut
+apt install notepadqq
+apt install chromium
+apt install terminator
+
+
+
+
+# Minikube
+apt install curl
+ curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
+ sudo install minikube-linux-amd64 /usr/local/bin/minikube
